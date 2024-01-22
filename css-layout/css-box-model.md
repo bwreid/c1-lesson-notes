@@ -5,6 +5,11 @@ By the end of this lesson, you will be able to:
 - Apply margins, borders, padding, and content dimensions in CSS.
 - Use the box model to control element spacing and layout.
 
+## Context
+
+Layout is what makes overall web experiences understandable and excellent.
+- Example: https://dribbble.com/
+
 ## Guiding questions
 
 ### Warm Up
