@@ -34,20 +34,30 @@ It's important to note that we don't _need_ flexbox. We could attain a similar l
 
   > It would be possible to float each element to the left, followed by a "clearfix" hack. You could also set the `display` value as `inline-block`.
 
-- We're going to take some time for you to research and learn about a particular flex container property on your own. Once you're done, respond to the appropriate thread in Slack with your own explanation of how the property works. (This process, of taking what you've learned and putting it into your own words, is an important part of learning. So, if someone else writes an explanation you think is great, you should still write your own!)
-  
-  We'll discuss all of the properties together with a different example in a few minutes.
+- For the majority if this lesson, I am going to hand it over to you all to do the research on specific properties for containers and items. Let's first do a couple together.
+
+  1. Flex direction.
+  2. Flex grow.
+
+- For your assigned container or item property below, go to the appropriate page on Codio and work to understand the property. Write up two or three sentences _on your own_ that help you understand what the property does and how the values may affect the overall layout. Next, respond to the appropriate thread in Slack with your own explanation of how the property works.
+
+  This process, of taking what you've learned and putting it into your own words, is an important part of learning. So, if someone else writes an explanation you think is great, you should still write your own! We'll discuss all of the properties together with a different example in a few minutes.
 
   Based on your last name, review the following lesson:
 
-  - A to C: Flex Direction
-  - D to G: Flex Wrap
-  - H to M: Justify Content
-  - N to P: Align Items
-  - Q to T: Align Content
-  - U to Z: Gap
+  - A to B: Flex Wrap
+  - C to D: Justify Content
+  - E to H: Align Items
+  - I to L: Align Content
+  - M to N: Gap
+  - O to S: Flex Shrink
+  - T to U: Flex Basis
+  - V to Z: Flex Shorthand
+
+  [Codepen: Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/) may be of use.
 
 ## Resources
 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Codepen: Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/)
