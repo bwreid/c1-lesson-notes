@@ -35,3 +35,7 @@ Grid can improve the viewing experience of a website that displays multiple item
 - What happens if we reorder the elements within the `.grid-container`?
 
   > The elements are still placed in their designated spots.
+
+## Resources
+
+- [CSS Grid Garden](https://cssgridgarden.com/)
